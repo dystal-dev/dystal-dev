@@ -1,9 +1,17 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=Hi!+I'm+Dystal+%F0%9F%98%8E;Front-End+Developer+%7C+Digital+Artist" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=F75C7E&center=true&repeat=false&width=435&lines=Hi!+I'm+Dystal+%F0%9F%98%8E" alt="Typing SVG" /></a>
+  
 </div>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=Front-End+Developer+%F0%9F%92%BB;Digital+Artist+%F0%9F%8E%A8;Future+Full+Stack+Developer+%F0%9F%99%8F" alt="Typing SVG" /></a>
+  </div>
 
 ---
 
+<div align="center">
+  <img src="vivlos.gif"/>
+  "Hi"
+</div>
 
 <!--
 **dystal-dev/dystal-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
