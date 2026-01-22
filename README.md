@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="vivlos.gif" width="150" height="150"/> <br/>
-  <i>"Tore-chi!"</i>
+  <i>"Torecchi!"</i>
 </div>
 
 ## 📖 Me and My Hobbies
@@ -18,7 +18,7 @@
 - 🎓 BS Computer Science Graduate 
   - 💼 Currently a freelance digital artist, but will look for a dev job soon
 - 🎮 All-time Favourite Games: Warcraft III, Pokemon, Minecraft
-  - 🏇 Currently tryharding: Umamusume: Pretty Derby! 
+  - 🏇 Currently tryharding: Umamusume: Pretty Derby 
 - ✈️ Countries travelled: 🇵🇭 🇻🇳 
   - 📝 Planning: 🇹🇼 🇯🇵 🇭🇰 🇦🇺 🇨🇦 🇪🇺
 
