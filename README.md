@@ -52,6 +52,7 @@
 ---
 
 ## 📊 Stats
+<img src="https://raw.githubusercontent.com/dystal-dev/dystal-dev/output/snake.svg" alt="Snake animation" />
 <img alt="Dystal's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=dystal-dev&theme=monokai-metallian&hide_border=true&short_numbers=true"/> <img alt="Dystal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dystal-dev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
 <img alt="Dystal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=dystal-dev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
