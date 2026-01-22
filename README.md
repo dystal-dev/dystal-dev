@@ -14,10 +14,11 @@
 </div>
 
 ## 📖 Me and My Hobbies
-- 🎓 BS Computer Science Graduate 
 - 🚶 25 years old
+- 🎓 BS Computer Science Graduate 
+  - Currently a freelance digital artist, but will look for a dev job soon
 - 🎮 All-time Favourite Games: Warcraft III, Pokemon, Minecraft
-  - 🏇 Currently try-harding: Umamusume: Pretty Derby! 
+  - 🏇 Currently tryhard-ing: Umamusume: Pretty Derby! 
 - ✈️ Countries travelled: 🇵🇭 🇻🇳 
   - 📝 Planning: 🇹🇼 🇯🇵 🇭🇰 🇦🇺 🇨🇦 🇪🇺
 
