@@ -16,9 +16,9 @@
 ## 📖 Me and My Hobbies
 - 🚶 25 years old
 - 🎓 BS Computer Science Graduate 
-  - Currently a freelance digital artist, but will look for a dev job soon
+  - 💼 Currently a freelance digital artist, but will look for a dev job soon
 - 🎮 All-time Favourite Games: Warcraft III, Pokemon, Minecraft
-  - 🏇 Currently tryhard-ing: Umamusume: Pretty Derby! 
+  - 🏇 Currently tryharding: Umamusume: Pretty Derby! 
 - ✈️ Countries travelled: 🇵🇭 🇻🇳 
   - 📝 Planning: 🇹🇼 🇯🇵 🇭🇰 🇦🇺 🇨🇦 🇪🇺
 
