@@ -1,4 +1,5 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Dystal)](https://git.io/typing-svg)
+
 
 <!--
 **dystal-dev/dystal-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
