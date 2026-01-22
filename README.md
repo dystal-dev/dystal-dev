@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Dystal&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=Hi!+I'm+Dystal+%F0%9F%98%8E;Front-End+Developer+%7C+Digital+Artist" alt="Typing SVG" /></a>
 </div>
+
+---
 
 
 <!--
