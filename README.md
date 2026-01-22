@@ -9,8 +9,8 @@
 ---
 
 <div align="center">
-  <img src="vivlos.gif"/>
-  "Hi"
+  <img src="vivlos.gif"/> <br/>
+  <i>"Tore-chi!"</i>
 </div>
 
 <!--
