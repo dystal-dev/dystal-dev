@@ -18,8 +18,8 @@
 - 🚶 25 years old
 - 🎮 All-time Favourite Games: Warcraft III, Pokemon, Minecraft
   - 🏇 Currently try-harding: Umamusume: Pretty Derby! 
-- ✈️ Countries travelled: 🇵🇭🇻🇳 
-  - 📝 Planning: 🇹🇼🇯🇵🇭🇰🇦🇺🇨🇦🇪🇺
+- ✈️ Countries travelled: 🇵🇭 🇻🇳 
+  - 📝 Planning: 🇹🇼 🇯🇵 🇭🇰 🇦🇺 🇨🇦 🇪🇺
 
 ---
 
