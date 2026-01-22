@@ -13,28 +13,25 @@
   <i>"Tore-chi!"</i>
 </div>
 
-## 📖 About Me
+## 📖 Me and My Hobbies
 - 🎓 BS Computer Science Graduate 
 - 🚶 25 years old
 - 🎮 All-time Favourite Games: Warcraft III, Pokemon, Minecraft
-- 🏇 Currently try-harding: Umamusume: Pretty Derby! 
-- ✈️ Countries travelled: 🇵🇭🇻🇳 (Planning: 🇹🇼🇯🇵🇨🇦🇦🇺🇪🇺)
+  - 🏇 Currently try-harding: Umamusume: Pretty Derby! 
+- ✈️ Countries travelled: 🇵🇭🇻🇳 
+  - 📝 Planning: 🇹🇼🇯🇵🇭🇰🇦🇺🇨🇦🇪🇺
 
 ---
 
 ## 🧑‍💻 Tech Stack
 
-<div align="center">
-
+**⌨️ Current Stack: <br/>**
 **Frontend:**  HTML/CSS, JavaScript, React, TypeScript, Tailwind CSS, Vite <br/>
-
-Learning/Want to Learn: <br/>
-
-**Backend:** Go (Golang), PostgreSQL, REST APIs, OpenAPI <br/>
-**Testing:** Vitest, React Testing Library, Playwright <br/>
 **Tools & Platforms:** Git, GitHub, Vercel<br/>
 
-</div>
+**🤔 Want to Learn: <br/>**
+**Backend:** Go (Golang), PostgreSQL, REST APIs, OpenAPI <br/>
+**Testing:** Vitest, React Testing Library, Playwright <br/>
 
 ---
 
