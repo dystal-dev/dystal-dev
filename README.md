@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=F75C7E&center=true&repeat=false&width=435&lines=Hi!+I'm+Dystal+%F0%9F%98%8E" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&color=F75C7E&center=true&repeat=false&width=435&lines=Hi,+I'm+Dystal+%F0%9F%98%8E" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -14,10 +14,9 @@
 </div>
 
 ## 📖 Me and My Hobbies
-- 🚶 25 years old
 - 🎓 BS Computer Science Graduate 
   - 💼 Currently a freelance digital artist, but will look for a dev job soon
-- 🎮 All-time Favourite Games: Warcraft III, Pokemon, Minecraft
+- 🎮 All-time favourite games: Warcraft III, Pokemon, Minecraft
   - 🏇 Currently tryharding: Umamusume: Pretty Derby 
 - ✈️ Countries travelled: 🇵🇭 🇻🇳 
   - 📝 Planning: 🇹🇼 🇯🇵 🇭🇰 🇦🇺 🇨🇦 🇪🇺
@@ -42,7 +41,6 @@
 [![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)](#)
-<br/>
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](#)
@@ -53,7 +51,6 @@
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)](#)
-<br/>
 [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=fff)](#)
 [![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=fff)](#)
 
@@ -68,7 +65,7 @@
 <div align="center">
   <i>My stat's kinda homeless...</i><br/><br/>
   
-  <img src="spe.gif" height="250"/> 
+  <img src="spe.gif" height="200"/> 
 </div>
 
 
