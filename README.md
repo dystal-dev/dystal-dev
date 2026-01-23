@@ -16,7 +16,7 @@
 ## 📖 Me and My Hobbies
 - 🎓 BS Computer Science Graduate 
   - 💼 Currently a freelance digital artist, but will look for a dev job soon
-- 🎮 All-time favourite games: Warcraft III, Pokemon, Minecraft
+- 🎮 All-time favourite games: Warcraft III, Pokemon, Minecraft, Factorio
   - 🏇 Currently tryharding: Umamusume: Pretty Derby 
 - ✈️ Countries travelled: 🇵🇭 🇻🇳 
   - 📝 Planning: 🇹🇼 🇯🇵 🇭🇰 🇦🇺 🇨🇦 🇪🇺
