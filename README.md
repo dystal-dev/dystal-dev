@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="vivlos.gif" alt="vivlos gif" width="150" height="150"/> <br/>
-  <i>"Torecchi!"</i>
+  <i>"Tore-chi!"</i>
 </div>
 
 ## 🧑‍💻 Tech Stack
@@ -59,7 +59,7 @@
 
 ---
 
-## 📖 About Me
+## 📖 About Me and Other Interests
 - 🎓 BS Computer Science Graduate 
   - 💼 Currently a freelance digital artist, but will look for a dev job soon
 - 🎮 All-time favourite games: Warcraft III, Pokemon, Minecraft, Factorio
