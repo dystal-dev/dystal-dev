@@ -5,31 +5,11 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=Front-End+Developer+%F0%9F%92%BB;Digital+Artist+%F0%9F%8E%A8;Future+Full+Stack+Developer+%F0%9F%99%8F" alt="Typing SVG" /></a>
 </div>
-  
----
 
 <div align="center">
   <img src="vivlos.gif" alt="vivlos gif" width="150" height="150"/> <br/>
   <i>"Torecchi!"</i>
 </div>
-
-## 📖 Me and My Hobbies
-- 🎓 BS Computer Science Graduate 
-  - 💼 Currently a freelance digital artist, but will look for a dev job soon
-- 🎮 All-time favourite games: Warcraft III, Pokemon, Minecraft, Factorio
-  - 🏇 Currently tryharding: Umamusume: Pretty Derby 
-- ✈️ Countries travelled: 🇵🇭 🇻🇳 
-  - 📝 Planning: 🇹🇼 🇯🇵 🇭🇰 🇦🇺 🇨🇦 🇪🇺
-
----
-
-## 🛠️ Projects
-
-<a href="https://github.com/dystal-dev/typing-speed-test" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dystal-dev&repo=typing-speed-test&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="typing-speed-test"></a>
-<a href="https://github.com/dystal-dev/pokemon-type-calculator" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dystal-dev&repo=pokemon-type-calculator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="typing-speed-test"></a>
-
-<a href="https://github.com/dystal-dev?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
 
 ## 🧑‍💻 Tech Stack
 
@@ -55,6 +35,14 @@
 [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=fff)](#)
 [![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=fff)](#)
 
+## 🛠️ Projects
+
+<a href="https://github.com/dystal-dev/typing-speed-test" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dystal-dev&repo=typing-speed-test&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="typing-speed-test"></a>
+<a href="https://github.com/dystal-dev/pokemon-type-calculator" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dystal-dev&repo=pokemon-type-calculator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="typing-speed-test"></a>
+
+<a href="https://github.com/dystal-dev?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
+
 ---
 
 ## 📊 Stats
@@ -69,9 +57,17 @@
   <img src="spe.gif" height="200"/> 
 </div>
 
-
 ---
 
+## 📖 About Me
+- 🎓 BS Computer Science Graduate 
+  - 💼 Currently a freelance digital artist, but will look for a dev job soon
+- 🎮 All-time favourite games: Warcraft III, Pokemon, Minecraft, Factorio
+  - 🏇 Currently tryharding: Umamusume: Pretty Derby 
+- ✈️ Countries travelled: 🇵🇭 🇻🇳 
+  - 📝 Planning: 🇹🇼 🇯🇵 🇭🇰 🇦🇺 🇨🇦 🇪🇺
+
+---
 
 
 <!--
