@@ -28,6 +28,9 @@
 
 <a href="https://github.com/dystal-dev/typing-speed-test" target="_blank"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dystal-dev&repo=typing-speed-test&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="typing-speed-test"></a>
 
+<a href="https://github.com/dystal-dev?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
+
 ## 🧑‍💻 Tech Stack
 
 **⌨️ Current Stack: <br/>**
