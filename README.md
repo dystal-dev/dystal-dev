@@ -24,6 +24,10 @@
 
 ---
 
+## 🛠️ Projects
+
+<a href="https://github.com/dystal-dev/typing-speed-test"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dystal-dev&repo=typing-speed-test&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="typing-speed-test"></a>
+
 ## 🧑‍💻 Tech Stack
 
 **⌨️ Current Stack: <br/>**
