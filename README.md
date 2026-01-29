@@ -6,10 +6,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=Front-End+Developer+%F0%9F%92%BB;Digital+Artist+%F0%9F%8E%A8;Future+Full+Stack+Developer+%F0%9F%99%8F" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
-  <img src="vivlos.gif" alt="vivlos gif" width="150" height="150"/> <br/>
-</div>
-
 ## 🧑‍💻 Tech Stack
 
 **⌨️ Current Stack: <br/>**
@@ -46,17 +42,8 @@
 <img alt="Dystal's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=dystal-dev&theme=monokai-metallian&hide_border=true&short_numbers=true"/> <img alt="Dystal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dystal-dev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
 <img alt="Dystal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=dystal-dev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
-<!--
-**dystal-dev/dystal-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <br/><img src="vivlos.gif" alt="vivlos gif" width="150" height="150"/> <br/>
+  <p><i>*vivlos jumpscare*</i></p>
+</div>
