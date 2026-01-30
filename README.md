@@ -45,5 +45,5 @@
 
 <div align="center">
   <br/><img src="vivlos.gif" alt="vivlos gif" width="150" height="150"/> <br/>
-  <p><i>*vivlos jumpscare*</i></p>
+  <p><i>vivlos jumpscare</i></p>
 </div>
